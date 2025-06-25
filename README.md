@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ahmed Samer Gad
 
-🎯 A passionate full-stack developer from Egypt working with Flutter & Node.js.
+🎯 A passionate full-stack Flutter developer from Egypt working with Flutter & Node.js.
 
 ---
 
